@@ -21,7 +21,7 @@
 
 ## Table of Contents
   - [Quick Start](#quick-start)
-  - [Configuration of Pruning](#Configuration of Pruning)
+  - [Configuration of Pruning](#Configuration-of-Pruning)
   - [Zero-shot Evaluation](#zero-shot-evaluation)
   - [Acknowledgement](#acknowledgement)
   - [Citation](#citation)
