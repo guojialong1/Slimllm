@@ -59,7 +59,7 @@ Arguments:
 - ``--pruning_ratio``: The initial pruning ratio for each module.
 - ``--pruned_layers``: The number of layers to be pruned in the model, and the IDs of the pruning layers will be automatically selected based on the calculated layer importance.
 - ``--alpha``: The hyperparameter controlling the fluctuation of layer pruning ratio.
-- ``--save_ckpt_log_name``: The path for save the checkpoint and the log.
+- ``--save_ckpt_log_name``: The path for saving the checkpoint and the log.
 - ``--device`` and ``--eval_device``: Pruning and evaluation can be performed on different devices. 
 
     
